@@ -1,10 +1,10 @@
 # How to use use-immer
 
-このリポジトリは Zenn の記事 **「react-hook-form の使い方」** と連動したリポジトリです。
+このリポジトリは Zenn の記事 **「use-immer でネストした State を更新する」** と連動したリポジトリです。
 
 ## 📄 記事へのリンクはこちら
 
-[use-immer でネストした State を更新する](https://zenn.dev/cocomina/articles/how-to-use-react-hook-form)
+[use-immer でネストした State を更新する](update-nested-state-with-use-immer)
 
 ## 🛠️ 開発環境
 
