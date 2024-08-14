@@ -4,7 +4,7 @@
 
 ## 📄 記事へのリンクはこちら
 
-[use-immer でネストした State を更新する](update-nested-state-with-use-immer)
+[use-immer でネストした State を更新する](https://zenn.dev/cocomina/articles/update-nested-state-with-use-immer)
 
 ## 🛠️ 開発環境
 
