@@ -42,7 +42,7 @@ export default function Page() {
         // childKey: prefecture | city | tel | email
         const [parentKey, childKey] = keys;
 
-        // parentKey が draft に存在し、型が object 型であることを確認
+        // parentKey が draft に存在し、object 型であることを確認
         if (parentKey in draft && typeof draft[parentKey] === "object") {
           draft[parentKey][childKey] = value;
         }
