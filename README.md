@@ -1,7 +1,5 @@
 # How to use use-immer
 
-このリポジトリは Zenn の記事 **「use-immer でネストした State を更新する」** と連動したリポジトリです。
-
 このリポジトリは Zenn の記事 **[「📚 use-immer でネストした State を更新する」](https://zenn.dev/cocomina/articles/update-nested-state-with-use-immer)**
 と連動したリポジトリです。
 
